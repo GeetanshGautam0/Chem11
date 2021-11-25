@@ -166,7 +166,7 @@
 
 `Contributions`
 > **1898-1903**
->> Rutherford worked at McGill University as a student of [J.J. Thompson](#Joseph%20John%20Thompson)
+>> Rutherford worked at McGill University as a student of [J.J. Thompson](#Joseph-John-Thompson)
 on $\alpha$-particles and $\beta$-particles. (*how atoms decay*)
 >
 > **1907**
