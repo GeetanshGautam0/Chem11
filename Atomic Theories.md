@@ -45,13 +45,14 @@
 `Ideas`
 > * *Exanded on the work of [Plato](##Plato) by describing the the four elementa.*
 > * Added another elementa called ***'(A)ether'***
->
-***Elementa Name*** | ***Temperture Description*** | ***Moisture Description***
---- | --- | --- | --- | --- | ---
-**Earth** | Cold | Dry
-**Air** | Hot | Wet
-**Fire** | Hot | Dry
-**Water** | Cold | Wet
+
+>> ***Elementa Name*** | ***Temperture Description*** | ***Moisture Description***
+>> --- | --- | --- 
+>> **Earth** | Cold | Dry
+>> **Air** | Hot | Wet
+>> **Fire** | Hot | Dry
+>> **Water** | Cold | Wet
+
 
 <br>
 
