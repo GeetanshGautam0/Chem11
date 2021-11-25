@@ -131,8 +131,8 @@
 >> Whilst working with a Cathode Ray Tube (CRT), discovered **`corpussles`** (*e<sup>-</sup>*)
 >> * Described these particles as the *building blocks of atoms*
 >> * Depicted an extremely high *charge to mass ratio*
->> * Reported the mass to be approximately $\frac{1}{1000}$<sup>th</sup> of that of `H`
->>> Actual:  $\frac{1}{1800}$<sup>th</sup>
+>> * Reported the mass to be approximately ![1/1000](https://render.githubusercontent.com/render/math?math=$\frac{1}{1000}$)<sup>th</sup> of that of `H`
+>>> Actual: ![1/1800](https://render.githubusercontent.com/render/math?math=$\frac{1}{1800}$)<sup>th</sup>
 >
 > **1904**
 >> Discovers that atoms **<u>are</u>** divisible.
@@ -167,12 +167,12 @@
 `Contributions`
 > **1898-1903**
 >> Rutherford worked at McGill University as a student of [J.J. Thompson](#Joseph-John-Thompson)
-on $\alpha$-particles and $\beta$-particles. (*how atoms decay*)
+on ![alpha](https://render.githubusercontent.com/render/math?math=$\alpha$)-particles and ![beta](https://render.githubusercontent.com/render/math?math=$\beta$)-particles. (*how atoms decay*)
 >
 > **1907**
 >> Published one of his papers <br>
->> **"$\alpha$ emissions were very similar to ionized helium"**
->>> Close, but not quite; an $\alpha$ emission <u>is</u> ionized helium
+>> **"![alpha](https://render.githubusercontent.com/render/math?math=$\alpha$) emissions were very similar to ionized helium"**
+>>> Close, but not quite; an ![alpha](https://render.githubusercontent.com/render/math?math=$\alpha$) emission <u>is</u> ionized helium
 >
 > **1908**
 >> Wins nobel prize in chemistry for his investigation into the "disinigration of atoms." (radiation).
