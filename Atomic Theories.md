@@ -20,7 +20,7 @@
 >>> *Today, we refer to these interactions as 'physical', 'chemical', or 'nuclear'*
 
 ## **Plato**
-`Born`: 424 BCE
+`Born`: 424 BCE <br>
 `Died`: 328 BCE
 
 `Ideas`
@@ -35,7 +35,26 @@
 >
 >> * Anything that is made of Earth goes *(falls)* towards Earth *(considered to be the centre of the universe at the time)*
 >> * Anything that is comprised of water, will "fall" towards the water sphere (on the surface of the Earth).
->> * 
+>> * Anything that is comprised of air, will "rise" into the air sphere *(atmosphere)* *(goes up)*
+>> * Anything that is comprised of fire, will *"rise towards the moon"*
+
+## **Aristotle**
+`Born` 384 BCE <br>
+`Died` 322 BCE
+
+`Ideas`
+> * *Exanded on the work of [Plato](##Plato) by describing the the four elementa.*
+> * Added another elementa called ***'(A)ether'***
+>
+***Elementa Name*** | ***Temperture Description*** | ***Moisture Description***
+--- | --- | --- | --- | --- | ---
+**Earth** | Cold | Dry
+**Air** | Hot | Wet
+**Fire** | Hot | Dry
+**Water** | Cold | Wet
+
 <br>
+
+---
 
 # **MODERN ATOMIC THEORIES**
